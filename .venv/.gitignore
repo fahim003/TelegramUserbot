@@ -1,0 +1,4 @@
+# Ignore config file
+config.py
+my_account.session
+my_account.session-journal
