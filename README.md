@@ -1,6 +1,6 @@
 # Telegram Userbot
 
-Welcome to the Telegram Userbot project! This userbot is designed to automate various tasks on Telegram using the latest version of Python.
+Welcome to the Telegram Userbot project! This userbot is designed to automate various tasks on Telegram.
 
 ## Requirements
 
