@@ -18,5 +18,28 @@ Clone this repository to your local machine using:
 
 ```bash
 git clone https://github.com/fahim003/TelegramUserbot
+```
+
+### 2. Install Requirements
+
+Navigate to the project directory and install the required dependencies:
+
+```bash
+cd TelegramUserbot
+pip install -r requirements.txt
+```
+
+### 3. Configure API Keys
+
+Replace the `config.py` file with your own API keys. You can obtain these keys from Telegram's BotFather and other relevant services used in the project.
+
+### 4. Run the Userbot
+
+Start the userbot by running the main script:
+
+```bash
+python main.py
+```
+
 
 
